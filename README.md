@@ -1,5 +1,5 @@
 # EstruturaDeDadosI
-Primeira lista de exercícios da matéria de Estrutura de Dados, Faculdade de Tecnologia de São Paulo. 
+Primeira lista de exercícios da matéria de Estrutura de Dados, Faculdade de Tecnologia de São Paulo. Exercícios realizados na IDE Dev C++.
 
 # Exercícios:
 1. Faça um programa que leia dois valores e informe a média entre eles. (use float como tipo de dado).
